@@ -7,6 +7,10 @@ import functions
 # the requirements.txt file has all the packages the app needs to install
 # pip freeze shows you the list.  > filename puts it in a file
 # make sure Git is the VCS
+# commit files to github; go to github and create a repository
+# get the url, return to pycharm, goto manage remotes (under VCS)
+# enter url
+
 
 def add_todo():
     todo = st.session_state["new_todo"].capitalize() +'\n'
