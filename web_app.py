@@ -10,6 +10,8 @@ import functions
 # commit files to github; go to github and create a repository
 # get the url, return to pycharm, goto manage remotes (under VCS)
 # enter url
+# run streamlit aagin, in upper right corner of web app, deploy this app
+
 
 
 def add_todo():
